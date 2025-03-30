@@ -4,7 +4,7 @@
     "slug": "apcupsd",
     "description": "View information from APC USB UPSs",
     "url": "https://github.com/acuglietta/hassio-apcupsd/tree/master/apcupsd",
-    "image": "acuglietta/hassio-apcupsd-{arch}",
+    "image": "korylprince/hassio-apcupsd-{arch}",
     "arch": ["armhf", "armv7", "aarch64", "i386", "amd64"],
     "startup": "services",
     "boot": "auto",
